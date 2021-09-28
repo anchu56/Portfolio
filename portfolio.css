@@ -1,0 +1,14 @@
+#CVbutton{
+    height: 60px; 
+    width: 180px;
+     border-radius: 12px;
+     background: #2a355f;
+     color: white;
+     font-weight: 500;
+     border: none;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     text-decoration: none;
+}
+#CVbutton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
